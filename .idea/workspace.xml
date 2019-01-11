@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6770d0b-f6ce-44ea-bd2b-f075a63ae04d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/StudyPythonHardWay/ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyPythonHardWay/ex18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyPythonHardWay/ex19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyPythonHardWay/ex20.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflowstudy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflowstudy.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,20 +41,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ex18.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex18.py">
+      <file leaf-file-name="ex19.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            <state relative-caret-position="388">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex19.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex19.py">
+      <file leaf-file-name="ex20.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex20.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="305">
-              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+              <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -89,6 +86,7 @@
         <option value="$PROJECT_DIR$/StudyPythonHardWay/ex17.py" />
         <option value="$PROJECT_DIR$/StudyPythonHardWay/ex18.py" />
         <option value="$PROJECT_DIR$/StudyPythonHardWay/ex19.py" />
+        <option value="$PROJECT_DIR$/StudyPythonHardWay/ex20.py" />
       </list>
     </option>
   </component>
@@ -99,10 +97,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="91" />
-    <option name="y" value="-24" />
+    <option name="x" value="90" />
+    <option name="y" value="-25" />
     <option name="width" value="1785" />
-    <option name="height" value="1024" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="添加" />
@@ -112,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,6 +126,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,10 +267,10 @@
       <window_info anchor="bottom" id="调试" order="0" weight="0.2639296" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50099665" side_tool="true" weight="0.16101696" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32909605" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49900332" weight="0.15960452" />
       <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49966776" weight="0.32909605" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49900332" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32909605" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.49900332" visible="true" weight="0.32909605" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858758" weight="0.1807309" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32956812" />
@@ -292,25 +290,25 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29696578" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.11491108" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="bottom" id="调试" order="0" weight="0.2639296" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.2523745" />
-      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,6 +349,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tensorflowstudy.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -649,9 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -664,8 +666,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex19.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex20.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
         </state>
       </provider>
     </entry>
