@@ -1,6 +1,6 @@
 def break_words(stuff):
     """This function will break up words fro us."""
-    return stuff.split("  ")
+    return stuff.split(" dk")
 
 
 def sort_words(words):
