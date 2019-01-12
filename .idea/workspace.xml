@@ -10,14 +10,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/PythonStudy$DictionaryStudy.coverage" NAME="DictionaryStudy Coverage Results" MODIFIED="1531737686886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonStudy$ex18.coverage" NAME="ex18 Coverage Results" MODIFIED="1547195749860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudyPythonHardWay" />
-    <SUITE FILE_PATH="coverage/PythonStudy$ex19.coverage" NAME="ex19 Coverage Results" MODIFIED="1547197861015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudyPythonHardWay" />
     <SUITE FILE_PATH="coverage/PythonStudy$ex17.coverage" NAME="ex17 Coverage Results" MODIFIED="1547177380384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudyPythonHardWay" />
     <SUITE FILE_PATH="coverage/PythonStudy$PythonStudy.coverage" NAME="PythonStudy Coverage Results" MODIFIED="1538803737234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/PythonStudy$Hello_World.coverage" NAME="Hello World Coverage Results" MODIFIED="1531553159090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonStudy$ListStudy.coverage" NAME="ListStudy Coverage Results" MODIFIED="1531737455911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStudy$ex25.coverage" NAME="ex25 Coverage Results" MODIFIED="1547219490355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudyPythonHardWay" />
     <SUITE FILE_PATH="coverage/PythonStudy$ex21.coverage" NAME="ex21 Coverage Results" MODIFIED="1547200058026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudyPythonHardWay" />
+    <SUITE FILE_PATH="coverage/PythonStudy$ex19.coverage" NAME="ex19 Coverage Results" MODIFIED="1547197861015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudyPythonHardWay" />
+    <SUITE FILE_PATH="coverage/PythonStudy$Hello_World.coverage" NAME="Hello World Coverage Results" MODIFIED="1531553159090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStudy$ex23.coverage" NAME="ex23 Coverage Results" MODIFIED="1547218761339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudyPythonHardWay" />
+    <SUITE FILE_PATH="coverage/PythonStudy$DictionaryStudy.coverage" NAME="DictionaryStudy Coverage Results" MODIFIED="1531737686886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStudy$ex18.coverage" NAME="ex18 Coverage Results" MODIFIED="1547195749860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudyPythonHardWay" />
+    <SUITE FILE_PATH="coverage/PythonStudy$ListStudy.coverage" NAME="ListStudy Coverage Results" MODIFIED="1531737455911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonStudy$study.coverage" NAME="study Coverage Results" MODIFIED="1531732515832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
@@ -39,38 +41,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ex19.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex19.py">
+      <file leaf-file-name="ex22.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex22.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="330">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex18.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex18.py">
+      <file leaf-file-name="ex23.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex23.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            <state relative-caret-position="990">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex20.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex20.py">
+      <file leaf-file-name="ex25.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex25.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex21.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex21.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            <state relative-caret-position="520">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -104,6 +97,9 @@
         <option value="$PROJECT_DIR$/StudyPythonHardWay/ex19.py" />
         <option value="$PROJECT_DIR$/StudyPythonHardWay/ex20.py" />
         <option value="$PROJECT_DIR$/StudyPythonHardWay/ex21.py" />
+        <option value="$PROJECT_DIR$/StudyPythonHardWay/ex22.py" />
+        <option value="$PROJECT_DIR$/StudyPythonHardWay/ex23.py" />
+        <option value="$PROJECT_DIR$/StudyPythonHardWay/ex25.py" />
       </list>
     </option>
   </component>
@@ -115,8 +111,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="90" />
-    <option name="y" value="-25" />
-    <option name="width" value="1785" />
+    <option name="y" value="-26" />
+    <option name="width" value="1786" />
     <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -165,26 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex21">
-    <configuration name="ex17" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StudyPythonHardWay" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StudyPythonHardWay/ex17.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex25">
     <configuration name="ex18" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,6 +219,44 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="ex23" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StudyPythonHardWay" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StudyPythonHardWay/ex23.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ex25" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StudyPythonHardWay" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StudyPythonHardWay/ex25.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="PythonStudy" type="Python.Ipnb" factoryName="Jupyter Notebook">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,17 +276,19 @@
     </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.PythonStudy" />
-      <item itemvalue="Python.ex17" />
       <item itemvalue="Python.ex18" />
       <item itemvalue="Python.ex19" />
       <item itemvalue="Python.ex21" />
+      <item itemvalue="Python.ex23" />
+      <item itemvalue="Python.ex25" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex25" />
+        <item itemvalue="Python.ex23" />
         <item itemvalue="Python.ex21" />
         <item itemvalue="Python.ex19" />
         <item itemvalue="Python.ex18" />
-        <item itemvalue="Python.ex17" />
       </list>
     </recent_temporary>
   </component>
@@ -306,18 +323,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1563" height="845" extended-state="6" />
+    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32909605" />
       <window_info anchor="bottom" id="调试" order="0" weight="0.2639296" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50099665" side_tool="true" weight="0.16101696" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49900332" weight="0.15960452" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49900332" weight="0.1588785" />
       <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49966776" weight="0.32909605" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="3" weight="0.32909605" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49900332" weight="0.32909605" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858758" weight="0.1807309" />
+=======
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32843792" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49900332" weight="0.29506007" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858758" weight="0.18065004" />
+>>>>>>> 5dfc594fc61b57020f5ca457d9d08db490ceab94
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32956812" />
       <window_info anchor="right" id="SciView" order="4" weight="0.32956812" />
@@ -717,21 +740,42 @@
     <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex18.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex20.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="48" />
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex21.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        <state relative-caret-position="630">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudyPythonHardWay/ex23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
         </state>
       </provider>
     </entry>

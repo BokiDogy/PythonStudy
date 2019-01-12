@@ -19,7 +19,7 @@ def multiply(a, b):
 def divide(a, b):
     print(f"DIVIDE {a} / {b}")
     if b == 0:
-        return sys.maxsize
+        return 0#sys.maxsize
     else:
         return a / b
 
