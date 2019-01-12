@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6770d0b-f6ce-44ea-bd2b-f075a63ae04d" name="Default" comment="190111dept">
-      <change afterPath="$PROJECT_DIR$/StudyPythonHardWay/ex21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6770d0b-f6ce-44ea-bd2b-f075a63ae04d" name="Default" comment="190111dept" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -318,7 +315,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49900332" weight="0.15960452" />
       <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49966776" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32909605" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49900332" weight="0.32909605" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858758" weight="0.1807309" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
