@@ -23,7 +23,8 @@ if len(sys.argv) == 2 and sys.argv[1] == "english":
 else:
     PHRASE_FIRST = False
 
-for word in urlopen(WORD_URL).readlines():
+all_words = urlopen(WORD_URL)
+for word in all_words.readlines():
     WORDS.append(str(word.strip(), encoding="utf-8"))
 
 
