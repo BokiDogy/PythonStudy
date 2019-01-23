@@ -4,7 +4,7 @@ def countchars(str, startChar, endChar):
     startAscCode = min(ord(startChar), ord(endChar))
     endAscCode = max(ord(startChar), ord(endChar))
     result = 0
-    for index, value in enumerate([chr(i) for i in range(startAscCode, endAscCode + 1)]):
+    for value in [chr(i) for i in range(startAscCode, endAscCode + 1)]:
         result += str.count(value)
     return result
 
