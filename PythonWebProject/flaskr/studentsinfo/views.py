@@ -9,7 +9,7 @@ def index():
     return f"<a>this is a student</a>"
 
 
-@student.route("/")
+@student.route("/all")
 def QueryAllStudents():
     sm = StudentsInfoManager()
     result = sm.QueryAll()
@@ -31,7 +31,6 @@ def querystu():
 
 @student.route("/", methods=['POST'])
 def addstu():
-    print(request.json)
     if not request.json:
         abort(400)
     else:
@@ -41,3 +40,20 @@ def addstu():
         return jsonify(result), 200
 
 
+@student.route("/<int:sid>", methods=['PUT'])
+def updatestu(sid):
+    if not isinstance(sid, int) or not request.json:
+        abort(404)
+    sm = StudentsInfoManager()
+    newinfo = request.json
+    result = sm.updatestu(sid, newinfo)
+    return jsonify(result), 200
+
+
+@student.route("/<int:sid>", methods=['DELETE'])
+def delstu(sid):
+    if not isinstance(sid, int):
+        abort(404)
+    sm = StudentsInfoManager()
+    result = sm.delstu(sid)
+    return jsonify(result), 200

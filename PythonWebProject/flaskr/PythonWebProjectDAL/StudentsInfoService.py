@@ -40,7 +40,6 @@ class StudentsInfoService(object):
                                              from test_0323strdents s) a
                                     where instr(a.allinfo, :words) > 0)'''
         paras=[]
-        print(words)
         paras.append(words)
         sqldata = db.ExecuteSelect(sql,paras)
         result = self.turndatalist(sqldata)
@@ -75,3 +74,24 @@ class StudentsInfoService(object):
             sql=f"insert into test_0323strdents ({columns}) values ({values})"
             result=db.ExecuteNonSelect(sql,paras)
             return result
+
+    def updatestu(self,sid,newinfo):
+        isincolumns = self.checkincolumns(newinfo)
+        if not isincolumns:
+            return 0
+        setsql=""
+        paras=[]
+        for k in newinfo.keys():
+            setsql+=f" {k} = :{k},"
+            paras.append(newinfo[k])
+        if len(setsql)>0:
+            setsql=setsql[:-1]
+        sql=f"update test_0323strdents s set {setsql} where s.stuid=:stuid"
+        paras.append(sid)
+        result = db.ExecuteNonSelect(sql, paras)
+        return result
+
+    def delstu(self, sid):
+        sql=f"delete test_0323strdents s where s.stuid=:stuid"
+        result = db.ExecuteNonSelect(sql, [sid])
+        return result
